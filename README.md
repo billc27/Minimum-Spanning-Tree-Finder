@@ -22,7 +22,6 @@ A window will appear if the program is run successfully!
 * Pillow
 * Networkx
 * Matplotlib
-```
 
 ## Credits
 This project is implemented by:
