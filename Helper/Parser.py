@@ -23,7 +23,7 @@ class Parser:
                         return False
             return True
         
-    def parseFile(self): # Not checked if it is symmetric, just loads
+    def parseFile(self):
         with open(self.filePath, 'r') as file:
             lines = file.readlines()
 
