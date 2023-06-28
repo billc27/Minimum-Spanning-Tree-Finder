@@ -11,7 +11,7 @@ In terminal, run:
 ```shell
 python main.py
 ```
-A window will appear if the program is run successfully!
+A window will appear if you run the program successfully!
 
 ## Tech Stack
 ### Programming Languange
